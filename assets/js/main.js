@@ -52,10 +52,6 @@ skillHeader.forEach((n) => {
   n.addEventListener("click", toggleSkills);
 });
 
-/*==================== QUALIFICATION TABS ====================*/
-
-/*==================== SERVICES MODAL ====================*/
-
 /*==================== PORTFOLIO SWIPER  ====================*/
 
 let swiper = new Swiper(".portfolio__container", {
@@ -73,8 +69,6 @@ let swiper = new Swiper(".portfolio__container", {
   mousewheel: false,
   keyboard: false,
 });
-
-/*==================== TESTIMONIAL ====================*/
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
